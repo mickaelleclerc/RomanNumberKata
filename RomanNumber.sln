@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumber", "RomanNumber\RomanNumber.csproj", "{A87F4A18-B210-4B0C-926A-644C367A89E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumber.Tests", "RomanNumber.Tests\RomanNumber.Tests.csproj", "{B4464165-811D-43D3-BDF1-18AA9BD3FD6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A87F4A18-B210-4B0C-926A-644C367A89E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87F4A18-B210-4B0C-926A-644C367A89E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87F4A18-B210-4B0C-926A-644C367A89E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87F4A18-B210-4B0C-926A-644C367A89E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4464165-811D-43D3-BDF1-18AA9BD3FD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4464165-811D-43D3-BDF1-18AA9BD3FD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4464165-811D-43D3-BDF1-18AA9BD3FD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4464165-811D-43D3-BDF1-18AA9BD3FD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
